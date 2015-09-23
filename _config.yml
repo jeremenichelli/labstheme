@@ -1,9 +1,10 @@
 # site settings
-title: Lab | Jeremias Menichelli
+title: LAB_NAME | Jeremias Menichelli
 author: Jeremias Menichelli
 description: "Lab description."
-url: "http://jeremenichelli.github.io/lab"
-baseurl: ""
+url: "http://jeremenichelli.github.io/LAB_NAME"
+# change baseurl for LAB_NAME
+baseurl: /labstheme
 
 # build settings
 port: 5000
